@@ -22,10 +22,10 @@
 <link rel='stylesheet' id='bootstrap-style-css'  href='https://happycakebaker.com/wp-content/themes/tribal/assets/bootstrap/css/bootstrap.min.css?ver=4.8.8' type='text/css' media='all' />
 <link rel='stylesheet' id='hover-style-css'  href='https://happycakebaker.com/wp-content/themes/tribal/assets/css/hover.min.css?ver=4.8.8' type='text/css' media='all' />
 <link rel='stylesheet' id='tribal-main-theme-style-css'  href='https://happycakebaker.com/wp-content/themes/tribal/assets/css/main.css?ver=4.8.8' type='text/css' media='all' />
-<link rel='stylesheet' id='A2A_SHARE_SAVE-css'  href='http://example.com/wp-content/plugins/add-to-any/addtoany.min.css?ver=1.14' type='text/css' media='all' />
+<link rel='stylesheet' id='A2A_SHARE_SAVE-css'  href='/wp-content/plugins/add-to-any/addtoany.min.css?ver=1.14' type='text/css' media='all' />
 <script type='text/javascript' src='https://happycakebaker.com/wp-includes/js/jquery/jquery.js?ver=1.12.4'></script>
 <script type='text/javascript' src='https://happycakebaker.com/wp-includes/js/jquery/jquery-migrate.min.js?ver=1.4.1'></script>
-<script type='text/javascript' src='http://example.com/wp-content/plugins/add-to-any/addtoany.min.js?ver=1.0'></script>
+<script type='text/javascript' src='/wp-content/plugins/add-to-any/addtoany.min.js?ver=1.0'></script>
 <script type='text/javascript' src='https://happycakebaker.com/wp-content/themes/tribal/js/external.js?ver=4.8.8'></script>
 <link rel='https://api.w.org/' href='https://happycakebaker.com/wp-json/' />
 <link rel="EditURI" type="application/rsd+xml" title="RSD" href="https://happycakebaker.com/xmlrpc.php?rsd" />
